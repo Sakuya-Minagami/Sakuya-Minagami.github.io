@@ -2065,26 +2065,6 @@ input {
 .progress-circle-container {
   position: absolute;
 }
-#waline {
-  --waline-color: var(--hty-text-color);
-  --waline-theme-color: #0078e7;
-  --waline-active-color: rgba(0,120,231,0.8);
-}
-html.dark {
-/* for waline */
-/* 布局颜色 */
-  --waline-text-color: #888;
-  --waline-bgcolor: #1e1e1e;
-  --waline-bgcolor-light: #272727;
-  --waline-border-color: #333;
-  --waline-disable-bgcolor: #444;
-  --waline-disable-color: #999;
-/* 特殊颜色 */
-  --waline-bq-color: #272727;
-/* 其他颜色 */
-  --waline-info-bgcolor: #272727;
-  --waline-info-color: #666;
-}
 #comment {
   margin: 0 1rem;
   padding: 1rem;
@@ -2120,6 +2100,25 @@ html.dark {
 }
 #say #say-from {
   display: block;
+}
+.notice {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-weight: bold;
+  padding: 1rem;
+  margin: 1rem auto;
+  border: 1px solid #000;
+  max-width: calc(900px - 2rem);
+  background-color: rgba(255,255,255,0.3);
+}
+@media screen and (max-width: 768px) {
+  .notice {
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
 }
 .heimu {
   background-color: var(--hty-text-color);
