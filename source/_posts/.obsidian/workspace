@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ae9d1fe24084cb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8441de59ce3fdf4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "vuex.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09888df05655b0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6e13612cd1deb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90387f7ee936b5b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12a3d166f5d86cf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf210e533ed9fbfb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efc32eb6cd65e6eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65379d29b1cd77c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9dfdb811340136a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vuex.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2de3022a3ec198f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vuex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "00b24bd201ee545d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0abcd6b3b266a522",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vuex.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a8441de59ce3fdf4",
+  "lastOpenFiles": [
+    "jquary网课笔记.md",
+    "vuex.md",
+    "有空再学.md",
+    "网易云音乐移动端.md",
+    "前端之旅.md",
+    "hitfp.md",
+    "一点反思.md",
+    "flex布局.md",
+    "css定位.md",
+    "newcss.md"
+  ]
+}

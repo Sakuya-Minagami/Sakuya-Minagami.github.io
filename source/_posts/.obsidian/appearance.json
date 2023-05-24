@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Bubble Space",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "css"
+  ],
+  "translucency": false,
+  "accentColor": ""
+}

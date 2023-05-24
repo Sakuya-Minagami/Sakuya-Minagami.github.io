@@ -1,0 +1,126 @@
+mode: auto
+
+avatar:
+  url: /images/avatar.jpg
+  status:
+    enable: true
+    emoji: 🌑
+    message: Looking for dawn.
+
+banner:
+  enable: true
+  title: 呆菇子的小窝
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+notice:
+  enable: true
+  content: 无论何时归来，我都会守候在此间。
+
+
+
+
+github_issues:
+  enable: false
+
+github_discussions:
+  enable: false
+
+disqusjs:
+  enable: false
+  shortname: yunyoujun
+  apikey: ouoGQCaamOKdJgyZU5DKcpFnRIg3SNzvk0nwygPtlcTRJuE68c8igvrZGW4wAJoN
+
+# https://github.com/laymonage/giscus
+giscus:
+  enable: false
+  repo: YunYouJun/yunyoujun.github.io
+  repo-id:
+  category-id:
+  mapping: pathname
+  reactions-enabled: 1
+  emit-metadata: 0
+  theme: light
+
+reward: false
+
+
+engine_search:
+  enable: false
+
+google_analytics:
+  enable: true
+  id: G-1LL0D86CY9
+
+google_adsense:
+  enable: true
+  client: ca-pub-2245427233262012
+
+post_edit:
+  enable: true
+  url: https://github.com/YunYouJun/yunyoujun.github.io/tree/hexo/source/
+
+albums:
+  enable: true
+
+girls:
+  enable: true
+
+tags:
+  动画: crimson
+  漫画: orange
+  Parcel: '#21374b'
+  学习: saddlebrown
+  MAD: crimson
+  教程: royalblue
+  笔记: dimgray
+  分享: '#0078e7'
+  随笔: mediumpurple
+  Blender: '#d04d2d'
+  Linux: '#2577b1'
+  中传: '#ccb44b'
+  部落: '#DD306A'
+  科幻: midnightblue
+  蚂蚁森林: '#54a892'
+
+categories:
+  云游的小视频: '#FB7299'
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: ri:genderless-line
+    color: dodgerblue
+  - name: 喜欢的女孩子
+    url: /girls/
+    icon: ri:women-line
+    color: hotpink
+
+menu:
+  custom:
+    title: 留言板
+    path: /about/#comment
+    icon: ri:clipboard-line
+
+cursor:
+  enable: true
+
+baidu_push: true
+
+google_tagmanager:
+  enable: true
+  id: GTM-M9KWR9L
+
+say:
+  api: https://el-bot-api.vercel.app/api/words/young
+  hitokoto:
+    enable: false
+
+social:
+# pjax:
+#   enable: true

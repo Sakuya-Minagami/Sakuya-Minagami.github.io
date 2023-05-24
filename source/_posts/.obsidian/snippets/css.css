@@ -1,0 +1,30 @@
+/* @settings
+
+name: Font Overrides
+id: font-overrides
+settings:
+    - 
+        id: default-font
+        title: Base Font
+        type: variable-text
+        default: '"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif'
+    - 
+        id: text-normal
+        title: Base Font Color
+        type: variable-color
+        format: hex
+        default: '#2e3338'
+    - 
+        id: text-accent
+        title: Accent Font Color
+        type: variable-color
+        format: hex
+        default: '#705dcf'
+    - 
+        id: text-accent-hover
+        title: Accent Hover Color
+        type: variable-color
+        format: hex
+        default: '#7a6ae6'
+
+*/

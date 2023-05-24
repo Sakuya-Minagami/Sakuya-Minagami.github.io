@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "ae9d1fe24084cb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bc9f29c63825757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b07d3143b0c2eee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "koishi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7b9f30b41eb8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "有空再学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1abd6eb54ad98850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "类型判断与函数构造法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c977992569b93547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git指令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09888df05655b0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6e13612cd1deb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90387f7ee936b5b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12a3d166f5d86cf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf210e533ed9fbfb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4c9259194293c87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "efc32eb6cd65e6eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65379d29b1cd77c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9dfdb811340136a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git指令.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2de3022a3ec198f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git指令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "00b24bd201ee545d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0abcd6b3b266a522",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git指令.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c977992569b93547",
+  "lastOpenFiles": [
+    "有空再学.md",
+    "类型判断与函数构造法.md",
+    "koishi.md",
+    "未命名.md",
+    "小小错题集.md",
+    "线程与任务.md",
+    "关于模式识别.md",
+    "遍历与迭代.md",
+    "原生js.md",
+    "原型链与方法继承.md",
+    "vue杂记.md",
+    "hitfp.md",
+    "HITFP杂问.md",
+    "HITFP项目总述.md",
+    "Cesium.md",
+    "react基础复习.md",
+    "Promise.md",
+    "Pasted image 20230412102357.png",
+    "react快餐版.md",
+    "git指令.md",
+    "SSR与CSR.md",
+    "react入门项目.md",
+    "前端之旅.md",
+    "Nextjs.md",
+    "express.md",
+    "http协议.md",
+    "MongoDB.md"
+  ]
+}
