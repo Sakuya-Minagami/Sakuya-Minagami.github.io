@@ -32,12 +32,36 @@
             }
           },
           {
+            "id": "6eb3b0ef91e781b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git指令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1abd6eb54ad98850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "类型判断与函数构造法.md",
+                "file": "线程与任务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5149021ff4ac491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartus.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git指令.md",
+                "file": "原生js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,34 +215,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c977992569b93547",
+  "active": "6eb3b0ef91e781b5",
   "lastOpenFiles": [
-    "有空再学.md",
-    "类型判断与函数构造法.md",
-    "koishi.md",
-    "未命名.md",
-    "小小错题集.md",
-    "线程与任务.md",
-    "关于模式识别.md",
+    "版本兼容.md",
     "遍历与迭代.md",
+    "数学文档.md",
+    "有空再学.md",
+    "线程与任务.md",
+    "quartus.md",
+    "类型判断与函数构造法.md",
     "原生js.md",
+    "Cesium.md",
+    "react基础复习.md",
+    "SSR与CSR.md",
+    "typescript.md",
+    "git指令.md",
+    "koishi.md",
+    "小小错题集.md",
+    "关于模式识别.md",
     "原型链与方法继承.md",
     "vue杂记.md",
     "hitfp.md",
     "HITFP杂问.md",
     "HITFP项目总述.md",
-    "Cesium.md",
-    "react基础复习.md",
     "Promise.md",
     "Pasted image 20230412102357.png",
     "react快餐版.md",
-    "git指令.md",
-    "SSR与CSR.md",
     "react入门项目.md",
     "前端之旅.md",
-    "Nextjs.md",
-    "express.md",
-    "http协议.md",
-    "MongoDB.md"
+    "Nextjs.md"
   ]
 }
