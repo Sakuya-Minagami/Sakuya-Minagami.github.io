@@ -2,6 +2,9 @@
 title: http协议
 ---
 比较重要且常用，拿出来专门留一篇
+[理解一个简单的网页请求过程](https://www.cnblogs.com/orchid/archive/2012/04/21/2461442.html)
+[Chrome浏览器查看网络请求](https://xie.infoq.cn/article/97bf7543d1d9621572852ca39)
+
 # 尚硅谷课程
 ## 请求报文
 重点：格式与参数

@@ -1,5 +1,5 @@
 ---
-title： Cocos
+title:  Cocos
 ---
 有个报错，暂时记在这吧
 ``Error: EPERM: operation not permitted``

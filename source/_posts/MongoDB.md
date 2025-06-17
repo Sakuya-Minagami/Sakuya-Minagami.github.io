@@ -15,6 +15,7 @@ PS D:\Environment\MongoDB\mongodb-win32-x86_64-windows-6.0.4\bin> .\mongod.exe -
 ```shell
 Please enter a MongoDB connection string (Default: mongodb://localhost/): 27017
 ```
+其实也可以直接打回车用默认
 # 指令
 所有指令在MongoDBshell中执行
 ## 基础操作

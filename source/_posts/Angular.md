@@ -1,5 +1,5 @@
 ---
-title： Angular
+title:  Angular
 ---
 # 配置
 ```

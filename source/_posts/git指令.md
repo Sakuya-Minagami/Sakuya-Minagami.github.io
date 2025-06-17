@@ -166,3 +166,11 @@ git checkout dev
 ```
 git push origin branch_xxx -f
 ```
+# hexo
+补一下hexo指令
+```
+hexo n 新建文章/页面
+hexo g 生成静态页面
+hexo s 本地查看内容
+hexo d 部署到Github
+```

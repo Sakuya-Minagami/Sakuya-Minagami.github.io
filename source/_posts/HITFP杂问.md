@@ -3,6 +3,7 @@ title: HITFP杂问
 ---
 # 表单提交的流程
 ## 表单封装
+[remix表单](https://www.jb51.net/article/278904.htm)
 ### 模板表单
 ```tsx
 import {useRef} from "react";
